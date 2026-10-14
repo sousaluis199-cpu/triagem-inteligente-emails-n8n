@@ -1,8 +1,8 @@
-#📧 Triagem Inteligente de E-mails com n8n e #IA
+#📧 Triagem Inteligente de E-mails com n8n e IA
 
-#Sobre o projeto
+Sobre o projeto
 
-#Este projeto utiliza o n8n para automatizar etapas da triagem de e-mails recebidos pelo Gmail, com processamento em #JavaScript e integração com um modelo de Inteligência Artificial.
+Este projeto utiliza o n8n para automatizar etapas da triagem de e-mails recebidos pelo Gmail, com processamento em #JavaScript e integração com um modelo de Inteligência Artificial.
 
 Objetivo
 
